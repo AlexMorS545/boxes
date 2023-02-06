@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button.disabled {
+    @apply bg-gray-300 text-slate-600;
+}
